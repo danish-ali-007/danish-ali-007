@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋, I'm Danish Ali
 
-<!--
-**danish-ali-007/danish-ali-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Developer | AI & ML Student
 
-Here are some ideas to get you started:
+I'm a B.Tech AIML student passionate about building full-stack web applications and solving real-world problems with technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **MERN Stack & DevOps**
+- 💻 Interested in Full Stack Web Development
+- 🤖 Exploring AI & Machine Learning
+- 🎯 Looking for Internship Opportunities
+- 📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Programming Languages
+- JavaScript
+- Python
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Power BI
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 Expense Tracker (MERN)
+- User Authentication
+- Add, Edit & Delete Expenses
+- Dashboard with Expense Tracking
+
+### 📊 Walmart Sales Analysis
+- Data Cleaning using Python
+- SQL Analysis
+- Data Visualization
+
+### 🎬 React Movie App
+- Movie Search
+- API Integration
+- Responsive UI
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://linkedin.com/in/your-profile
+- 🌐 Portfolio: https://your-portfolio-link.com
+
+---
+
+⭐ Thanks for visiting my profile!
