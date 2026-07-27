@@ -15,22 +15,22 @@
 - 🌱 Currently Learning **DevOps & Cloud**
 - 🤖 Interested in AI, Machine Learning & Full Stack Development
 - 🚀 Building Real World Projects
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **danishqwerty01@gmail.com**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/danishali0786/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://your-portfolio.vercel.app">
+<a href="https://danish-portfolio-web.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:danishqwerty01@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
@@ -50,8 +50,6 @@
 | Project | Description |
 |---------|-------------|
 | 💰 Expense Tracker | MERN Stack Expense Tracking Application |
-| 🍔 Food Ordering Website | Responsive React Website |
-| 🎬 React Movie App | TMDB API Integration |
 | 📊 Walmart Sales Analysis | Python + SQL + Power BI |
 | 🌐 Portfolio Website | Personal Portfolio |
 
@@ -60,13 +58,8 @@
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=danish-ali-007&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danish-ali-007&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=danish-ali-007&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -82,11 +75,8 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=danish-ali-007&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=danish-ali-007&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
-
 ---
 
 # 📈 Contribution Graph
@@ -97,9 +87,9 @@
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/danish-ali-007/danish-ali-007/blob/output/github-contribution-grid-snake.svg)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/danish-ali-007/danish-ali-007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 # ⚡ Fun Fact
 
